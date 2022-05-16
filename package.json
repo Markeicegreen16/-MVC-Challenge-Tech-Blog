@@ -1,0 +1,12 @@
+{
+    "name": "mvc-challenge-tech-blog",
+    "version": "1.0.0",
+    "description": "Model-View-Controller (MVC) Tech Blog",
+    "main": "server.js",
+    "scripts": {
+      "test": "jest",
+      "start": "node server.js",
+      "watch": "nodemon server.js",
+      "seed": "node seeds/index.js"
+    }
+}
